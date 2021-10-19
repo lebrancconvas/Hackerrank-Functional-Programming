@@ -9,7 +9,7 @@ You are given two integers, A and B on separate lines.
 ### Output Format
 Output an integer that denotes A + B
 
-### Constructors
+### Constrains 
 - A >= 1
 - B <= 1000
 
